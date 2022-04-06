@@ -28,3 +28,6 @@
 -- SELECT * FROM Websites WHERE alexa BETWEEN 1 AND 20;
 -- SELECT * FROM Websites WHERE alexa NOT BETWEEN 1 AND 20;
 -- SELECT * FROM Websites WHERE (alexa BETWEEN 1 AND 20) AND country NOT IN ('USA', 'IND');
+
+
+** join

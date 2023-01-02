@@ -1,0 +1,54 @@
+User.build
+jane.save()
+
+ User.create({ name: "Jane" })
+
+jane.toJSON()
+
+jane.set
+jane.save()
+
+
+jane.update
+
+
+jane.destroy();
+
+jane.reload()
+
+
+jane.save({ fields: ['name'] })
+
+jane.increment('age', { by: 2 })
+jane.increment('age')
+
+jane.decrement
+
+
+读取整个表User.findAll()
+
+Model.findAll({
+  attributes: ['foo', 'bar']
+});
+
+User.update
+
+User.destroy
+
+
+Project.count
+
+User.max,User.min 和 User.sum
+
+User.increment, User.decrement
+
+
+
+
+findAll
+
+findByPk
+
+findOne
+
+findAndCountAll    返回结果包含两个字段 count rows
